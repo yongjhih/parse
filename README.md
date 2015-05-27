@@ -1,5 +1,7 @@
 # parse
 
+![JitPack](https://img.shields.io/github/tag/yongjhih/parse.svg?label=JitPack)
+
 ## Installation
 
 facebook 3.x
