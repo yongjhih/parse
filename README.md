@@ -1,6 +1,9 @@
 # parse
 
-![JitPack](https://img.shields.io/github/tag/yongjhih/parse.svg?label=JitPack)
+[![Download](https://api.bintray.com/packages/yongjhih/maven/parse/images/download.svg) ](https://bintray.com/yongjhih/maven/parse/_latestVersion)
+[![JitPack](https://img.shields.io/github/tag/yongjhih/parse.svg?label=JitPack)](https://jitpack.io/#yongjhih/parse)
+[![Build Status](https://travis-ci.org/yongjhih/parse.svg)](https://travis-ci.org/yongjhih/parse)
+[![Join the chat at https://gitter.im/yongjhih/parse](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yongjhih/parse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Installation
 
